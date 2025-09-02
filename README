@@ -2,4 +2,8 @@ Hello World!
 Edited by Adam - learning Git
 Day 3 practice edit
 This is Adam's master branch edit
+<<<<<<< HEAD
 dumb stuff
+=======
+d6 tutorial addon
+>>>>>>> parent of 2312b73 (i)
